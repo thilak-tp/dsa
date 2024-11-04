@@ -1,7 +1,7 @@
 # Data Structures and Algorithms
 This repo will contain and will slowly be updated with all the data structures and algorithms that i pick up along the way
 
-##Current Contents:
+## Current Contents:
 1. Searching
    - Linear Search
    - Binary Search
