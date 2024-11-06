@@ -8,4 +8,5 @@ This repo will contain and will slowly be updated with all the data structures a
 
 2. Simple
    - To find a pair of elements x,y in an array such that the sum value given by the user is satisfied by these two elements 
-
+3. Sorting
+   - Bubble sort
