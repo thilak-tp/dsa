@@ -1,9 +1,11 @@
 #include<iostream>
 #include<map>
+
 using std::cout;
 using std::cin;
 using std::endl;
 using std::map;
+
 void mapHashIt(int *arr, int size, map <int, int> &mpp)
 {
 	for(int i=0;i<size;i++)
